@@ -1,0 +1,6 @@
+
+int base = x
+int altura = y
+
+ int A = x * y
+  System.out.println("ÁREA DO RETÂNGULO =" + A)

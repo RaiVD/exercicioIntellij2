@@ -1,0 +1,27 @@
+
+Var peso = '70'
+Var altura = '1,65'
+
+switch (peso/ (altura * altura) {
+  case "< 18,5":
+     Alert('MAGREZA');
+     break;
+  case ">18,5 && <24,9":
+     Alert('NORMAL');
+     break;
+  case ">25 && <29,9":
+     Alert('SOBREPESO');
+     break;
+  case ">30 && <39,9":
+     Alert('OBESIDADE');
+     break;
+  case ">40":
+     Alert('OBESIDADE GRAVE');
+     break;
+  default:
+     Alert('OPERAÇÃO NÃO REALIZADA);
+
+}
+
+
+

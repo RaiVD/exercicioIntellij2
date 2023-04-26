@@ -1,0 +1,18 @@
+
+Var A = 3
+Var B = 4
+Var C = 7
+Var D = 2
+Var E = 9
+Var F = 5
+
+ if (A == B) {
+    Alert('TRUE')
+ } else if (C != D) {
+    Alert('TRUE")
+ } else if (E > F) {
+    Alert('TRUE')
+ } else {
+
+ }
+

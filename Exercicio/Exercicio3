@@ -1,0 +1,10 @@
+
+int X = 37
+
+if (x < 10) {
+   System.out.println('É MAIOR QUE 10!')
+} else {
+   System.out.println('NÃO É MAIOR QUE 10!')
+
+}
+

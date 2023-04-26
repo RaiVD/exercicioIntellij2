@@ -1,0 +1,9 @@
+
+Var Y = '67'
+Var X = '35'
+
+ if (X < V) {
+    System.out.println("Verdadeiro")
+ } else {
+    System.out.println("Falso")
+ }

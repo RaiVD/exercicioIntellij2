@@ -1,0 +1,13 @@
+
+Var time1 = São paulo
+Var time2 = Corinthians
+int Gol1 = 1
+int Gol2 = 3
+
+ if (Gol1 > Gol2) {
+   System.out.println("Campeão:" + time1)
+ } else if (Gol1 < Gol2) {
+   System.out.println("Campeão:" + time2")
+ } else {
+   System.out.println("EMPATE")
+ }

@@ -1,0 +1,9 @@
+
+Var idade = 52
+
+ if (idade => 18) {
+    Alert('MAIOR DE IDADE')
+ } else {
+    Alert('MENOR DE IDADE')
+ }
+
